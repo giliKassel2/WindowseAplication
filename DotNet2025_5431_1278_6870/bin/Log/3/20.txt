@@ -1,0 +1,4 @@
+20/03/2025 16:13:51	Dal.ProductImplementation.Read:	start read Product
+20/03/2025 16:14:44	Dal.ProductImplementation.Read:	start read Product
+20/03/2025 16:15:46	Dal.ProductImplementation.Read:	start read Product
+20/03/2025 17:33:18	Dal.ProductImplementation.Read:	start read Product

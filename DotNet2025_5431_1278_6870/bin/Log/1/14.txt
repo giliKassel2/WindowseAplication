@@ -1,0 +1,54 @@
+14/01/2025 14:26:27	Dal.ProductImplementation.ReadAll:	 readAll with filter Product
+14/01/2025 14:27:48	DalTest.Program.Main:	start Initialization
+14/01/2025 14:27:48	Dal.CustomerImplementation.Create:	start create customer
+14/01/2025 14:27:48	Dal.CustomerImplementation.Create:	end create customer
+14/01/2025 14:27:48	Dal.CustomerImplementation.Create:	start create customer
+14/01/2025 14:27:48	Dal.CustomerImplementation.Create:	end create customer
+14/01/2025 14:27:48	Dal.CustomerImplementation.Create:	start create customer
+14/01/2025 14:27:48	Dal.CustomerImplementation.Create:	end create customer
+14/01/2025 14:27:48	Dal.CustomerImplementation.Create:	start create customer
+14/01/2025 14:27:48	Dal.CustomerImplementation.Create:	end create customer
+14/01/2025 14:27:48	Dal.SaleImplementation.Create:	 start create sale
+14/01/2025 14:27:48	Dal.SaleImplementation.Create:	 end create sale
+14/01/2025 14:27:48	Dal.SaleImplementation.Create:	 start create sale
+14/01/2025 14:27:48	Dal.SaleImplementation.Create:	 end create sale
+14/01/2025 14:27:48	Dal.SaleImplementation.Create:	 start create sale
+14/01/2025 14:27:48	Dal.SaleImplementation.Create:	 end create sale
+14/01/2025 14:27:48	Dal.SaleImplementation.Create:	 start create sale
+14/01/2025 14:27:48	Dal.SaleImplementation.Create:	 end create sale
+14/01/2025 14:28:03	Dal.ProductImplementation.ReadAll:	 readAll with filter Product
+14/01/2025 14:34:25	DalTest.Program.Main:	start Initialization
+14/01/2025 14:34:25	Dal.CustomerImplementation.Create:	start create customer
+14/01/2025 14:34:25	Dal.CustomerImplementation.Create:	end create customer
+14/01/2025 14:34:25	Dal.CustomerImplementation.Create:	start create customer
+14/01/2025 14:34:25	Dal.CustomerImplementation.Create:	end create customer
+14/01/2025 14:34:25	Dal.CustomerImplementation.Create:	start create customer
+14/01/2025 14:34:25	Dal.CustomerImplementation.Create:	end create customer
+14/01/2025 14:34:25	Dal.CustomerImplementation.Create:	start create customer
+14/01/2025 14:34:25	Dal.CustomerImplementation.Create:	end create customer
+14/01/2025 14:34:25	Dal.SaleImplementation.Create:	 start create sale
+14/01/2025 14:34:25	Dal.SaleImplementation.Create:	 end create sale
+14/01/2025 14:34:25	Dal.SaleImplementation.Create:	 start create sale
+14/01/2025 14:34:25	Dal.SaleImplementation.Create:	 end create sale
+14/01/2025 14:34:25	Dal.SaleImplementation.Create:	 start create sale
+14/01/2025 14:34:25	Dal.SaleImplementation.Create:	 end create sale
+14/01/2025 14:34:25	Dal.SaleImplementation.Create:	 start create sale
+14/01/2025 14:34:25	Dal.SaleImplementation.Create:	 end create sale
+14/01/2025 14:34:30	Tools.LogManager.clearLog:	The specified path is invalid. : 'Z:\B\קסל גילה\c#\myProject\DotNet2025_5431_1278_6870\bin\log\Z:\B\קסל גילה\c#\myProject\DotNet2025_5431_1278_6870\bin\log\1'
+14/01/2025 14:43:01	DalTest.Program.Main:	start Initialization
+14/01/2025 14:43:01	Dal.CustomerImplementation.Create:	start create customer
+14/01/2025 14:43:01	Dal.CustomerImplementation.Create:	end create customer
+14/01/2025 14:43:01	Dal.CustomerImplementation.Create:	start create customer
+14/01/2025 14:43:01	Dal.CustomerImplementation.Create:	end create customer
+14/01/2025 14:43:01	Dal.CustomerImplementation.Create:	start create customer
+14/01/2025 14:43:01	Dal.CustomerImplementation.Create:	end create customer
+14/01/2025 14:43:01	Dal.CustomerImplementation.Create:	start create customer
+14/01/2025 14:43:01	Dal.CustomerImplementation.Create:	end create customer
+14/01/2025 14:43:01	Dal.SaleImplementation.Create:	 start create sale
+14/01/2025 14:43:01	Dal.SaleImplementation.Create:	 end create sale
+14/01/2025 14:43:01	Dal.SaleImplementation.Create:	 start create sale
+14/01/2025 14:43:01	Dal.SaleImplementation.Create:	 end create sale
+14/01/2025 14:43:01	Dal.SaleImplementation.Create:	 start create sale
+14/01/2025 14:43:01	Dal.SaleImplementation.Create:	 end create sale
+14/01/2025 14:43:01	Dal.SaleImplementation.Create:	 start create sale
+14/01/2025 14:43:01	Dal.SaleImplementation.Create:	 end create sale
