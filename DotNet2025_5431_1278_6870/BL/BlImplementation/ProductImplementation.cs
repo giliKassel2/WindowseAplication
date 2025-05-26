@@ -19,7 +19,7 @@ namespace BlImplementation
         {
             try
             {
-                return _dal.product.Create(item.convertBoToDo());
+                return _dal.Product.Create(item.convertBoToDo());
             }
             catch (Exception e)
             {
@@ -30,7 +30,7 @@ namespace BlImplementation
         {
             try
             {
-                return _dal.product.Read(id).convertDoToBo();
+                return _dal.Product.Read(id).convertDoToBo();
             }
             catch (Exception e)
             {
@@ -41,7 +41,7 @@ namespace BlImplementation
         {
             try
             {
-                return _dal.product.Read(p => filter(p.convertDoToBo()))?.convertDoToBo();
+                return _dal.Product.Read(p => filter(p.convertDoToBo()))?.convertDoToBo();
             }
             catch (Exception e)
             {
@@ -52,7 +52,9 @@ namespace BlImplementation
         {
             try
             {
-                return _dal.product.ReadAll(p => filter(p.convertDoToBo())).Select(p => p.convertDoToBo()).ToList();
+                if (filter == null)
+                   return _dal.Product.ReadAll().Select(p => p.convertDoToBo()).ToList();
+                return _dal.Product.ReadAll(p => filter(p.convertDoToBo())).Select(p => p.convertDoToBo()).ToList();
             }
             catch (Exception e)
             {
@@ -63,7 +65,7 @@ namespace BlImplementation
         {
             try
             {
-                _dal.product.Update(item.convertBoToDo());
+                _dal.Product.Update(item.convertBoToDo());
             }
             catch (Exception e)
             {
@@ -74,7 +76,7 @@ namespace BlImplementation
         {
              try
             {
-                _dal.product.Delete(id);
+                _dal.Product.Delete(id);
             }
             catch (Exception e)
             {
@@ -86,7 +88,7 @@ namespace BlImplementation
         {
             try
             {
-                return Read(productId).Sales.Where(s => s.Preference == preference && _dal.sale.Read(s.SaleId).convertDOtoBO().isValidSale()).Select(s=> s).ToList();
+                return Read(productId).Sales.Where(s => s.Preference == preference && _dal.Sale.Read(s.SaleId).convertDOtoBO().isValidSale()).Select(s=> s).ToList();
             }
             catch (Exception e)
             {

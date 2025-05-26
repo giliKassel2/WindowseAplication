@@ -1,5 +1,8 @@
 ﻿using BlApi;
 using BO;
+using DalTest;
+using Dal;
+using DO;
 namespace BlTest;
 
 internal class Program
@@ -10,6 +13,8 @@ internal class Program
 
 
     public static void createOrder()
+    
+    
     {
         int new_order = 1;
         while (new_order == 1)
@@ -37,8 +42,17 @@ internal class Program
                 Console.WriteLine("insert count from this product");
                 int count;
                 int.TryParse(Console.ReadLine(), out count);
-                Console.WriteLine(s_bl.Order.AddProductToOrder(order, code, count));
-                Console.WriteLine(order.TotalPrice);
+                //  Console.WriteLine(s_bl.Order.AddProductToOrder(order, code, count));
+                Console.WriteLine("Your Sales: ");
+                var sales = s_bl.Order.AddProductToOrder(order, code, count);
+                foreach (var item in sales)//Print the sale list of this product
+                {
+                    Console.WriteLine($"Product Code: {code}  Quantity: {item.Quantity}  Price: {item.Price}");
+                }
+
+                Console.WriteLine();
+                Console.WriteLine("The total price is: " + order.TotalPrice);
+               
                 Console.WriteLine("insert product for exist insert 0");
                 int.TryParse(Console.ReadLine(), out code);
 
@@ -51,6 +65,13 @@ internal class Program
 
     static void Main(String[] args)
     {
+        Console.WriteLine("To initialize press 1");
+        int init;
+        int.TryParse(Console.ReadLine() , out init);
+        if(init == 1)
+        {
+           Initialization.initelaize();
+        }
     createOrder();
     }
 }

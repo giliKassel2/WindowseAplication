@@ -17,12 +17,12 @@ namespace Dal
         static XmlSerializer serializer = new XmlSerializer(typeof(List<Customer>));
         public int Create(Customer item)
         {
-            
                 LogManager.writeToLog(MethodBase.GetCurrentMethod()!.DeclaringType!.FullName!, MethodBase.GetCurrentMethod().Name, "start create customer");
                 List<Customer> customers = Config.LoadFromXml<Customer>(file_path);
-
-                Customer? customer = Read(item.Id);
-
+            if (customers.Any(c => c?.Id == item.Id))
+            {
+                throw new DalIdAlreadyExists("ERROR: The customer ID already exists : Customer");
+            }
                 customers.Add(item);
                 Config.SaveToXml(file_path, customers);
 

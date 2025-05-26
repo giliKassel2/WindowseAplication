@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DO;
 
 namespace BO;
 
@@ -17,21 +19,16 @@ public class ProductInOrder
     public double FinalPrice { get; set; }
     public int CountInOrder { get; }
 
-    ProductInOrder(int ProductId,string ProductName,double Price,int Quantity,List<SaleInProduct> Sales, double FinalPrice)
-{
-    this.ProductId = ProductId;
-    this.ProductName = ProductName;
-    this.Price = Price;
-    this.Quantity = Quantity;
-    this.Sales = Sales;
-    this.FinalPrice = FinalPrice;
-}
-
     public ProductInOrder(int productId, string productName, double price, int countInOrder)
     {
-        ProductId = productId;
-        ProductName = productName;
-        Price = price;
-        CountInOrder = countInOrder;
+        this.ProductId = productId;
+        this.ProductName = productName;
+        this.Price = price;
+        this.Quantity =countInOrder ;
+        this.Sales = new List<SaleInProduct>();
+        this.FinalPrice = 0;
+        
     }
+
+    public String ToString() { return $" name: {ProductName} \n quantity: {Quantity} \n price: {Price} \n id: {ProductId} "; }
 }

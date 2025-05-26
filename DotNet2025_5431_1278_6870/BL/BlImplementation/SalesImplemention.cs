@@ -14,7 +14,7 @@ internal class SalesImplemention : ISale
     {
        try
         {
-            return _dal.sale.Create(item.convertBOtoDO());
+            return _dal.Sale.Create(item.convertBOtoDO());
         }
         catch(Exception e){
             throw new Exception(e.Message);
@@ -24,7 +24,7 @@ internal class SalesImplemention : ISale
     {
         try
         {
-            return _dal.sale.Read(id).convertDOtoBO();
+            return _dal.Sale.Read(id).convertDOtoBO();
         }
         catch (Exception e)
         {
@@ -35,7 +35,8 @@ internal class SalesImplemention : ISale
     {
         try
         {
-            return _dal.sale.Read(p => filter(p.convertDOtoBO()))?.convertDOtoBO();
+
+            return _dal.Sale.Read(p => filter(p.convertDOtoBO()))?.convertDOtoBO();
         }
         catch (Exception e)
         {
@@ -46,7 +47,9 @@ internal class SalesImplemention : ISale
     {
         try
         {
-            return _dal.sale.ReadAll(s => filter(s.convertDOtoBO())).Select(s => s.convertDOtoBO()).ToList();
+            if (filter == null)
+                return _dal.Sale.ReadAll().Select(p => p.convertDOtoBO()).ToList();
+            return _dal.Sale.ReadAll(s => filter(s.convertDOtoBO())).Select(s => s.convertDOtoBO()).ToList();
         }
         catch (Exception e)
         {
@@ -57,7 +60,7 @@ internal class SalesImplemention : ISale
     {
         try
         {
-            _dal.sale.Update(item.convertBOtoDO());
+            _dal.Sale.Update(item.convertBOtoDO());
         }
         catch (Exception e)
         {
@@ -68,7 +71,7 @@ internal class SalesImplemention : ISale
     {
         try
         {
-            _dal.sale.Delete(id);
+            _dal.Sale.Delete(id);
         }
         catch (Exception e)
         {

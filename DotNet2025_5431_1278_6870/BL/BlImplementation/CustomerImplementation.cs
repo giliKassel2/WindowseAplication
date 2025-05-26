@@ -12,7 +12,7 @@ namespace BlImplementation
         {
             try
             {  
-                return _dal.customer.Create(item.ConvertBOtoDO());
+                return _dal.Customer.Create(item.ConvertBOtoDO());
             }
             catch (DO.DalIdAlreadyExists ex)
             {
@@ -28,7 +28,7 @@ namespace BlImplementation
         {
             try
             {
-                _dal.customer.Delete(id);
+                _dal.Customer.Delete(id);
             }
             catch (Exception ex)
             {
@@ -40,7 +40,7 @@ namespace BlImplementation
         {
             try
             {
-                DO.Customer customer = _dal.customer.Read(id);
+                DO.Customer customer = _dal.Customer.Read(id);
                 if (customer == null) 
                     return false;
                 return true;
@@ -55,7 +55,7 @@ namespace BlImplementation
         {
             try
             {
-                DO.Customer customer = _dal.customer.Read(id);
+                DO.Customer customer = _dal.Customer.Read(id);
                 return customer?.ConvertDOtoBO();
             }
             catch (Exception ex)
@@ -68,7 +68,7 @@ namespace BlImplementation
         {
             try
             {
-                return _dal.customer.Read(doCustomer => filter(doCustomer.ConvertDOtoBO()))?.ConvertDOtoBO();
+                return _dal.Customer.Read(doCustomer => filter(doCustomer.ConvertDOtoBO()))?.ConvertDOtoBO();
             }
             catch (Exception ex)
             {
@@ -80,7 +80,11 @@ namespace BlImplementation
         {
             try
             {
-                return _dal.customer.ReadAll(doCustomer => filter(doCustomer.ConvertDOtoBO())).Select(s => s.ConvertDOtoBO()).ToList();
+                if (filter == null)
+                {
+                    return _dal.Customer.ReadAll().Select(s => s.ConvertDOtoBO()).ToList();
+                }
+                return _dal.Customer.ReadAll(doCustomer => filter(doCustomer.ConvertDOtoBO())).Select(s => s.ConvertDOtoBO()).ToList();
             }
             catch (Exception ex)
             {
@@ -92,7 +96,7 @@ namespace BlImplementation
         {
             try
             {
-                _dal.customer.Update(item.ConvertBOtoDO());
+                _dal.Customer.Update(item.ConvertBOtoDO());
             }
             catch (Exception ex)
             {

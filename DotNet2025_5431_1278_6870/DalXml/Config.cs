@@ -1,4 +1,4 @@
-﻿.
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,30 +11,43 @@ namespace Dal
 {
     static internal class Config
     {
-        private static string file = "data-config";
+        private static string file = "../xml/data-config.xml";
 
 
-        private static int NextProductCode {
-            get {
-                XElement dataXml = XElement.Load(file);
-                int currentCode = int.Parse(dataXml.Attribute("NextProductCode").Value);
-                currentCode++;
-                dataXml.Attribute("NextProductCode").Value = currentCode.ToString();
-                dataXml.Save(file);
-                return currentCode;
-            }
-        }
+        //private static int NextProductCode {
+        //    get {
+        //        XElement dataXml = XElement.Load(file);
+        //        int currentCode = int.Parse(dataXml.Attribute("NextProductCode").Value);
+        //        currentCode++;
+        //        dataXml.Attribute("NextProductCode").Value = currentCode.ToString();
+        //        dataXml.Save(file);
+        //        return currentCode;
+        //    }
+        //}
         public static int NextSaleCode {
             get {
                 XElement dataXml = XElement.Load(file);
-                int currentCode = int.Parse(dataXml.Attribute("NextSaleCode").Value);
+                int currentCode = (int)dataXml.Element("NextSaleCode");
                 currentCode++;
-                dataXml.Attribute("NextSaleCode").Value = currentCode.ToString();
+                dataXml.Element("NextSaleCode").SetValue( currentCode.ToString());
                 dataXml.Save(file);
                 return currentCode;
             }
         }
-        
+        public static int NextProductCode
+        {
+            get
+            {
+                XElement dataXml = XElement.Load(file);
+                int currentCode = (int)dataXml.Element("NextProductCode");
+                currentCode++;
+                dataXml.Element("NextProductCode").SetValue ( currentCode.ToString());
+                dataXml.Save(file);
+                return currentCode;
+            }
+
+        }
+
         public static List<T> LoadFromXml<T>(string filePath)
         {
             XmlSerializer serializer = new XmlSerializer(typeof(List<T>));

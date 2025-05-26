@@ -21,3 +21,27 @@ Z:\B\קסל גילה\c#\myProject\DotNet2025_5431_1278_6870\bin\DalFacade.deps.j
 Z:\B\קסל גילה\c#\myProject\DotNet2025_5431_1278_6870\bin\DalFacade.dll
 Z:\B\קסל גילה\c#\myProject\DotNet2025_5431_1278_6870\bin\DalFacade.pdb
 Z:\B\קסל גילה\c#\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\ref\DalFacade.dll
+D:\💻📒📑📄📌⌛\C# מתקדם\myProject\DotNet2025_5431_1278_6870\bin\DalFacade.deps.json
+D:\💻📒📑📄📌⌛\C# מתקדם\myProject\DotNet2025_5431_1278_6870\bin\DalFacade.dll
+D:\💻📒📑📄📌⌛\C# מתקדם\myProject\DotNet2025_5431_1278_6870\bin\DalFacade.pdb
+D:\💻📒📑📄📌⌛\C# מתקדם\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+D:\💻📒📑📄📌⌛\C# מתקדם\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+D:\💻📒📑📄📌⌛\C# מתקדם\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+D:\💻📒📑📄📌⌛\C# מתקדם\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+D:\💻📒📑📄📌⌛\C# מתקדם\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+D:\💻📒📑📄📌⌛\C# מתקדם\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.dll
+D:\💻📒📑📄📌⌛\C# מתקדם\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\refint\DalFacade.dll
+D:\💻📒📑📄📌⌛\C# מתקדם\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.pdb
+D:\💻📒📑📄📌⌛\C# מתקדם\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\user1\Desktop\C#-PROJECT\myProject\DotNet2025_5431_1278_6870\bin\DalFacade.deps.json
+C:\Users\user1\Desktop\C#-PROJECT\myProject\DotNet2025_5431_1278_6870\bin\DalFacade.dll
+C:\Users\user1\Desktop\C#-PROJECT\myProject\DotNet2025_5431_1278_6870\bin\DalFacade.pdb
+C:\Users\user1\Desktop\C#-PROJECT\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\C#-PROJECT\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\C#-PROJECT\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\C#-PROJECT\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\user1\Desktop\C#-PROJECT\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\C#-PROJECT\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\user1\Desktop\C#-PROJECT\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\user1\Desktop\C#-PROJECT\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\user1\Desktop\C#-PROJECT\myProject\DotNet2025_5431_1278_6870\DalFacade\obj\Debug\ref\DalFacade.dll

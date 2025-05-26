@@ -23,12 +23,14 @@ namespace BlImplementation
                 {   
                     if(count == 0)
                         break;
-                    if(sale.Quantity >= count)
+                    if (sale.Quantity <= count)
                     {
                         currentSales.Add(sale);
-                        product.FinalPrice += sale.Price*(count/sale.Quantity);
-                        count =count % sale.Quantity;
+                        product.FinalPrice = sale.Price * (count / sale.Quantity);
+                        count = count % sale.Quantity;
                     }
+                    else
+                        continue;
                 }
                 product.FinalPrice += product.Price * count;
                 product.Sales=currentSales;
@@ -42,7 +44,7 @@ namespace BlImplementation
 
        public List<SaleInProduct> AddProductToOrder(BO.Order order, int productId, int countInOrder)
         {
-            DO.Product p1 = _dal.product.Read(productId);
+            DO.Product p1 = _dal.Product.Read(productId);
             if (p1 == null)
             {
                 throw new BlDoesNotExistException("NOT FOUND PRODUCT");
@@ -53,7 +55,7 @@ namespace BlImplementation
             }
             BO.ProductInOrder p2 = order.ProductsInOrder.FirstOrDefault(p => p.ProductId == productId);
             ProductInOrder productInOrder;
-            if ( p2!= null)
+            if ( p2== null)
             {
                  productInOrder = new ProductInOrder(productId, p1.convertDoToBo().ProductName,
                  p1.convertDoToBo().Price, countInOrder);
@@ -63,7 +65,7 @@ namespace BlImplementation
             else
             {
                 productInOrder = p2;
-                productInOrder.Quantity += countInOrder;
+                productInOrder.Quantity = countInOrder;
             }
             SearchSaleForProduct(productInOrder);
             CalcTotalPriceForProduct(productInOrder);
@@ -74,21 +76,47 @@ namespace BlImplementation
 
         public void DoOrder(BO.Order order)
         {
-            order.ProductsInOrder.Select(p => { _dal.product.Read(p.ProductId).convertDoToBo().Quantity -= p.Quantity; return 0; });
+            try
+            {
+                foreach (var p in order.ProductsInOrder)
+                {
+                    Product p1 = _dal.Product.Read(p.ProductId).convertDoToBo();
+                    p1.Quantity -= p.Quantity;
+                    _dal.Product.Update(p1.convertBoToDo());
+                }
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
         }
 
         public void SearchSaleForProduct(ProductInOrder product)
         {
-            product.Sales = _dal.sale.ReadAll(s => s.ProductId== product.ProductId && s.convertDOtoBO().isValidSale()
-                            && s.QuantityForSale >= product.Quantity ).OrderBy(s => s.SalePrice / s.QuantityForSale)
-                            .Select(s => new SaleInProduct(s.SaleCode,s.QuantityForSale,s.SalePrice)).ToList();
+            //product.Sales = _dal.Sale.ReadAll(s => s.ProductId == product.ProductId && s.convertDOtoBO().isValidSale()
+            //                && s.QuantityForSale <= product.Quantity ).OrderBy(s => s.SalePrice / s.QuantityForSale)
+            //                .Select(s => new SaleInProduct(s.SaleCode,s.QuantityForSale,s.SalePrice)).ToList();
+
+            product.Sales = _dal.Sale.ReadAll(s => s.ProductId == product.ProductId
+                                        && s.convertDOtoBO().isValidSale()
+                                        && product.Quantity >= s.QuantityForSale)
+                                        .OrderBy(s => s?.SalePrice / s?.QuantityForSale)
+                                        .Select(s => new SaleInProduct(s!.SaleCode, s.QuantityForSale, s.SalePrice)).ToList();
         }
+
+        public void DeleteProductFromOrder(Order order, int productId)
+        {
+            ProductInOrder productToDelet = order.ProductsInOrder.Find(p =>p.ProductId ==productId);
+            order.TotalPrice -= productToDelet.FinalPrice;
+            order.ProductsInOrder.Remove(productToDelet);
+        }
+
 
         //List<SaleInProduct> IOrder.AddProductToOrder(Order order, int productId, int countInOrder)
         //{
         //    throw new NotImplementedException();
         //}
 
-       
+
     }
 }

@@ -102,15 +102,15 @@ internal class Program
             {
                 case 1:
                     Console.WriteLine("product");
-                    Crud("product", s_dal.product);
+                    Crud("product", s_dal.Product);
                     break;
                 case 2:
                     Console.WriteLine("customer");
-                    Crud("customer",s_dal.customer);
+                    Crud("customer",s_dal.Customer);
                     break;
                 case 3:
                     Console.WriteLine("sale");
-                    Crud("sale", s_dal.sale);
+                    Crud("sale", s_dal.Sale);
                     break;
                 case 111:
                     LogManager.clearLog();
@@ -181,7 +181,7 @@ internal class Program
     {
         try
         {
-            s_dal.product.Create(createOrUpdateProduct());
+            s_dal.Product.Create(createOrUpdateProduct());
         }
         catch(Exception e) {
             Console.WriteLine(e.Message);
@@ -196,7 +196,7 @@ internal class Program
         int.TryParse(Console.ReadLine(),out code);
         try
         {
-            s_dal.product.Update(createOrUpdateProduct(code));
+            s_dal.Product.Update(createOrUpdateProduct(code));
         }
         catch (Exception e)
         {
@@ -212,7 +212,7 @@ internal class Program
         int.TryParse(Console.ReadLine(),out code);
         try
         {
-            s_dal.sale.Update (createOrUpdateSale(code));
+            s_dal.Sale.Update (createOrUpdateSale(code));
         }
         catch(Exception e) {
             Console.WriteLine(e.Message);
@@ -223,7 +223,7 @@ internal class Program
 
     public static void createSale()
     {
-        try { s_dal.sale.Create(createOrUpdateSale()); }
+        try { s_dal.Sale.Create(createOrUpdateSale()); }
         catch (Exception e) {
             LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, e.Message);
 
@@ -233,7 +233,7 @@ internal class Program
     {
         try
         {
-            s_dal.customer.Create(CreateOrUpdateCustomer());
+            s_dal.Customer.Create(CreateOrUpdateCustomer());
         }
         catch (Exception e)
         {
@@ -246,7 +246,7 @@ internal class Program
     {
         try
         {
-            s_dal.customer.Update(CreateOrUpdateCustomer());
+            s_dal.Customer.Update(CreateOrUpdateCustomer());
         }
         catch (Exception e)
         {

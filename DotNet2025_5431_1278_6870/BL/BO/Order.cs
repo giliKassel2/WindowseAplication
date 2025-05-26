@@ -11,8 +11,13 @@ public class Order {
 
     public CustomerPreference Preference { get; set; }
     public List<ProductInOrder> ProductsInOrder { get; set; }
+    
     public double TotalPrice { get; set; }
+    
+    //public void SetQuantity()
+    //{
 
+    //}
 
     public Order(CustomerPreference Preference, double TotalPrice)
     {

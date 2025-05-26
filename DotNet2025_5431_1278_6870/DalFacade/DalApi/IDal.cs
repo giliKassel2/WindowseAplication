@@ -4,9 +4,9 @@ namespace DalApi
 {
     public interface IDal
     {
-        IProduct product { get; }
-        ICustomer customer { get; }
-        ISale sale { get; }
+        IProduct Product { get; }
+        ICustomer Customer { get; }
+        ISale Sale { get; }
 
     }
 }

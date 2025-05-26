@@ -29,11 +29,9 @@ static internal class Tools
 
     public static bool isValidSale(this Sale sale)
     {
-        if (sale.EndSale < DateTime.Now)
-        {
-            return false;
-        }
-        return true;
+
+        if (sale.StartSale == null) return false;
+        return sale.StartSale <= DateTime.Now && sale.EndSale >= DateTime.Now;
     }
   
     public static BO.Product convertDoToBo(this DO.Product p)

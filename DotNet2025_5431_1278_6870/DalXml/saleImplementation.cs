@@ -12,10 +12,38 @@ using Tools;
 
 namespace Dal
 {
+    //[Serilalizable]
     internal class saleImplementation : ISale
     {
-        static string file_path = "../xml/sale.xml";
+        static string file_path = "../xml/sales.xml";
         public int Create(Sale item)
+        {
+            LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()?.Name!, "Start Create Sale");
+            XElement salesXml = XElement.Load(file_path);
+            Sale s = item with { SaleCode = Config.NextSaleCode };
+            XElement e = new XElement("Sale",
+                new XElement("SaleCode", s.SaleCode),
+                new XElement("ProductId", s.ProductId),
+                new XElement("QuantityForSale", s.QuantityForSale),
+                new XElement("SalePrice", s.SalePrice));
+            if (s.IsClub != null)
+            {
+                e.Add(new XElement("IsClub", s.IsClub));
+            }
+            if (s.StartSale != null)
+            {
+                e.Add(new XElement("StartSale", s.StartSale));
+            }
+            if (s.EndSale != null)
+            {
+                e.Add(new XElement("EndSale", s.EndSale));
+            }
+            salesXml.Add(e);
+            salesXml.Save(file_path);
+            LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()?.Name!, "End Create Sale");
+            return s.SaleCode;
+        }
+        /*public int Create(Sale item)
         {
             LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, " start create sale");
             XElement saleXml = XElement.Load(file_path);
@@ -24,7 +52,7 @@ namespace Dal
                 new XElement("SaleCode", s.SaleCode),
                 new XElement("ProductId", s.ProductId),
                 new XElement("QuantityForSale", s.QuantityForSale),
-                new XElement("SalePrice", s.SalePrice),
+                new XElement("SalePrice", s.SalePrice)
                 //new XElement("StartSale", s.StartSale),
                 //new XElement("EndSale", s.EndSale)
                 );
@@ -42,83 +70,74 @@ namespace Dal
             saleXml.Save(file_path);
             LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, " end create sale");
             return s.SaleCode;
-        }
-        //    int SaleCode,                    
-        //int ProductId,
-        //int QuantityForSale,
-        //double SalePrice,
-        //bool? IsClub,
-        //DateTime? StartSale = null,
-        //DateTime? EndSale = null
+        }*/
+
+
+
         public void Delete(int id)
         {
             LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, " start delete sale");
 
             XElement xmlData = XElement.Load(file_path);
-            List<Sale> users = new List<Sale>();
-
-            foreach (var prod in xmlData.Elements("Sale"))
+            List<Sale> sales = new List<Sale>();
+            Sale SaleToDelete = sales.FirstOrDefault(s => s.ProductId == id);
+            if (SaleToDelete != null)
             {
-                users.Add(new Sale
-                {
-                    SaleCode = prod.Element()
-                });
+                sales.Remove(SaleToDelete);
+                Config.SaveToXml(file_path, sales);
+                LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, "end delete sale");
             }
-
-            return users;
-
-            LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, " end delete sale");
-
-
+            else
+            {
+                throw new DO.DalIdDoesNotExist("Delete - ERROR: sale Id not exists");
+            }
         }
 
         public Sale? Read(int id)
         {
             LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, "read sale");
+            List<Sale> sales = new List<Sale>();
+            sales = Config.LoadFromXml<Sale>(file_path);
+            Sale findSale = sales.FirstOrDefault(c => c.SaleCode == id);
+            if (findSale != null)
+            {
+                return findSale;
+            }
+            throw new DO.DalIdDoesNotExist("Read - ERROR: sale Id not exists");
 
-            try
-            {
-                return DataSource.Sales.Single(s => s?.SaleCode == code);
-            }
-            catch
-            {
-                throw new DalIdDoesNotExist("ERROR: id does not exist :products");
-            }
+
         }
         public Sale? Read(Func<Sale, bool> filter)
-        {LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, "read with filter sale");
-
+        {
+             LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()?.Name!, "Read with filter Sale");
             try
             {
-                return DataSource.Sales.First(filter);
+                List<Sale> sales = Config.LoadFromXml<Sale>(file_path);
+                return sales.FirstOrDefault(filter);
             }
-            catch
+            catch (Exception)
             {
-                throw new DalNotFound("ERROR: there is no element that meets the condition :sale");
+                throw new DO.DalNotFound("ERROR: There is no sale that meets the condition : Sale");
             }
         }
 
-        public List<Sale?> ReadAll(Func<Sale, bool>? filter = null)
+        public List<Sale> ReadAll(Func<Sale, bool>? filter = null)
         {
-            LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, "read all with filter sale");
-
+            LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()?.Name!, "ReadAll with filter Sale");
+            List<Sale> sales = Config.LoadFromXml<Sale>(file_path);
             if (filter == null)
-                return new List<Sale>(DataSource.Sales);
-            else
-                return DataSource.Sales.Where(filter).ToList();
-
+                return new List<Sale>(sales);
+            return sales.Where(filter).ToList();
         }
 
         public void Update(Sale item)
         {
-
-            LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, " start update sale");
-
+            LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()?.Name!, "Start Update Sale");
             Delete(item.SaleCode);
-            DataSource.Sales.Add(item);
-
-            LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, " end update sale");
-
+            List<Sale> sales = Config.LoadFromXml<Sale>(file_path);
+            sales.Add(item);
+            Config.SaveToXml<Sale>( file_path, sales);
+            LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()?.Name!, "End Update Sale");
         }
     }
 }

@@ -13,22 +13,28 @@ namespace Dal
 {
     internal  class productImplementation : IProduct
     {
-        static string file_path = "../xml/product.xml";
+        static string file_path = "../xml/products.xml";
         static XmlSerializer serializer = new XmlSerializer(typeof(List<Customer>));
         public int Create(Product item)
         {
            
             LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()?.Name!, "Start Create Product");
-
+            item = item with {ProductCode = Config.NextProductCode };
             List<Product> products = new List<Product>();
                 products = Config.LoadFromXml<Product>(file_path);
-            Product? prod = Read(item.ProductCode);
+            bool Product = products.Any(c => c?.ProductCode == item.ProductCode);
+
+            if (Product)
+            {
+                throw new DalIdAlreadyExists("Create - ERROR: Product Id already exists");
+            }
 
             products.Add(item);
-                Config.SaveToXml(file_path, products);
-                LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()?.Name!, "End Create Product");
-                return item.ProductCode;
-            }
+            Config.SaveToXml(file_path, products);
+            LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()?.Name!, "End Create Product");
+            return item.ProductCode;
+
+        }
 
         public void Delete(int id)
         {
@@ -92,11 +98,37 @@ namespace Dal
 
         public void Update(Product item)
         {
-            LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, "start update Product");
-            Delete(item.ProductCode);
-            Create(item);
-            LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, " end update Product");
+            try
+            {
+                LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, "start update Product");
 
+                List<Product> products = new List<Product>();
+                if (File.Exists(file_path))
+                {
+                    products = Config.LoadFromXml<Product>(file_path);
+                    Product ProductToDelete = products.FirstOrDefault(c => c.ProductCode == item.ProductCode);
+                    if (ProductToDelete != null)
+                    {
+                        products.Remove(ProductToDelete);
+                        products.Add(item);
+                        Config.SaveToXml(file_path, products);
+                        LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, "end delete Product");
+                    }
+                    else
+                    {
+                        throw new DO.DalIdDoesNotExist("Delete - ERROR: Product Id not exists");
+                    }
+                }
+                else
+                {
+                    throw new DalIdDoesNotExist("this file doesnt exist!");
+                }
+                LogManager.writeToLog(MethodBase.GetCurrentMethod()?.DeclaringType?.FullName!, MethodBase.GetCurrentMethod()!.Name, " end update Product");
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
     }
 }
