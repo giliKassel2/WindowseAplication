@@ -1,0 +1,1636 @@
+03/06/2025 00:01:05	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 00:03:54	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 00:03:54	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 00:03:54	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 00:03:55	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 00:03:55	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 00:04:06	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 00:04:24	Dal.productImplementation.Read:	start read Product
+03/06/2025 00:04:24	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 00:30:44	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 00:31:31	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 00:32:34	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 00:32:45	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 00:32:45	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 00:32:45	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 00:32:54	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 00:50:42	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 00:52:56	Dal.customerImplementation.Read:	 read with filter - customer
+03/06/2025 00:53:27	Dal.customerImplementation.Update:	start update customer
+03/06/2025 00:53:27	Dal.customerImplementation.Delete:	start delete customer
+03/06/2025 00:53:27	Dal.customerImplementation.Read:	 read customer
+03/06/2025 00:53:27	Dal.customerImplementation.Delete:	end delete customer
+03/06/2025 00:53:27	Dal.customerImplementation.Create:	start create customer
+03/06/2025 00:53:27	Dal.customerImplementation.Create:	end create customer
+03/06/2025 00:53:27	Dal.customerImplementation.Update:	end update customer
+03/06/2025 00:53:28	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 00:57:49	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 00:58:09	Dal.customerImplementation.Read:	 read with filter - customer
+03/06/2025 00:58:09	Dal.customerImplementation.Update:	start update customer
+03/06/2025 00:58:09	Dal.customerImplementation.Delete:	start delete customer
+03/06/2025 00:58:09	Dal.customerImplementation.Read:	 read customer
+03/06/2025 00:58:09	Dal.customerImplementation.Delete:	end delete customer
+03/06/2025 00:58:09	Dal.customerImplementation.Create:	start create customer
+03/06/2025 00:58:09	Dal.customerImplementation.Create:	end create customer
+03/06/2025 00:58:09	Dal.customerImplementation.Update:	end update customer
+03/06/2025 00:58:09	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 00:58:09	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 00:58:30	Dal.customerImplementation.Read:	 read with filter - customer
+03/06/2025 00:58:40	Dal.customerImplementation.Read:	 read with filter - customer
+03/06/2025 00:58:40	Dal.customerImplementation.Delete:	start delete customer
+03/06/2025 00:58:40	Dal.customerImplementation.Read:	 read customer
+03/06/2025 00:58:40	Dal.customerImplementation.Delete:	end delete customer
+03/06/2025 00:58:40	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 00:58:40	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 00:58:50	Dal.customerImplementation.Read:	 read with filter - customer
+03/06/2025 00:58:50	Dal.customerImplementation.Delete:	start delete customer
+03/06/2025 00:58:50	Dal.customerImplementation.Read:	 read customer
+03/06/2025 00:58:50	Dal.customerImplementation.Delete:	end delete customer
+03/06/2025 00:58:50	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 00:58:50	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 00:59:43	Dal.customerImplementation.Create:	start create customer
+03/06/2025 00:59:43	Dal.customerImplementation.Create:	end create customer
+03/06/2025 00:59:43	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 00:59:51	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 01:00:37	Dal.customerImplementation.Read:	 read with filter - customer
+03/06/2025 01:00:37	Dal.customerImplementation.Update:	start update customer
+03/06/2025 01:00:37	Dal.customerImplementation.Delete:	start delete customer
+03/06/2025 01:00:37	Dal.customerImplementation.Read:	 read customer
+03/06/2025 01:00:51	Dal.customerImplementation.Read:	 read with filter - customer
+03/06/2025 01:00:51	Dal.customerImplementation.Update:	start update customer
+03/06/2025 01:00:51	Dal.customerImplementation.Delete:	start delete customer
+03/06/2025 01:00:51	Dal.customerImplementation.Read:	 read customer
+03/06/2025 01:00:51	Dal.customerImplementation.Delete:	end delete customer
+03/06/2025 01:00:51	Dal.customerImplementation.Create:	start create customer
+03/06/2025 01:00:51	Dal.customerImplementation.Create:	end create customer
+03/06/2025 01:00:51	Dal.customerImplementation.Update:	end update customer
+03/06/2025 01:00:51	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 01:00:51	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 01:01:30	Dal.customerImplementation.Read:	 read with filter - customer
+03/06/2025 01:01:30	Dal.customerImplementation.Delete:	start delete customer
+03/06/2025 01:01:30	Dal.customerImplementation.Read:	 read customer
+03/06/2025 01:01:30	Dal.customerImplementation.Delete:	end delete customer
+03/06/2025 01:01:30	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 01:01:30	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 01:01:38	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:01:38	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:01:38	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:01:46	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:01:54	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:01:54	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:01:55	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:01:58	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:02:02	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:02:06	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:02:09	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:02:13	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:02:16	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:02:17	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:02:18	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:02:20	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:02:35	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:02:35	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:02:56	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:02:56	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:02:56	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:03:03	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:03:03	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:03:03	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:03:03	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:03:10	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:10	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:11	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:03:11	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:03:11	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:11	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:11	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:11	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:11	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:11	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:11	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:11	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:11	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:11	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:11	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:11	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:11	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:11	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:11	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:03:15	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:17	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:03:17	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:03:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:03:32	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:32	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:33	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:03:33	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:03:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:03:34	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:35	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:03:35	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:03:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:03:40	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:40	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:42	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:03:42	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:03:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:03:59	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:03:59	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:03:59	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:17:26	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:17:26	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:17:26	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:17:28	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:17:32	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:17:34	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:17:58	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:18:04	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:18:12	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:18:34	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:19:51	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:19:54	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:02	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:12	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:26	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:27	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:27	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:29	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:31	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:32	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:34	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:41	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:42	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:47	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:47	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:47	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:49	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:20:49	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:21:04	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:21:04	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:21:04	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:21:04	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:04	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:21:08	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 01:22:16	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:22:16	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:22:16	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:22:16	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:20	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:22:20	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:22:20	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:22:23	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 01:22:26	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:22:26	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:22:26	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:22:26	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:26	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:22:56	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:22:56	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:22:56	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:23:00	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 01:23:03	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 01:23:03	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:23:03	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:23:03	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 01:23:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:13	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 10:42:17	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 10:42:17	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 10:42:17	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 10:42:20	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 10:42:20	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 10:42:20	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 10:42:20	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:20	Dal.productImplementation.Read:	start read Product
+03/06/2025 10:42:24	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 10:52:41	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 10:52:41	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 10:52:41	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 10:56:11	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 10:56:11	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 10:56:11	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 11:05:30	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:08:38	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:28	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:30	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:30	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:31	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:31	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:33	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:33	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:34	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:34	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:34	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:34	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:37	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:37	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:38	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:38	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:35:43	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:36:50	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:37:02	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:37:10	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:37:47	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:43:30	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:43:34	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:43:40	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:43:42	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:44:09	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:58:00	Dal.customerImplementation.ReadAll:	 readAll with filter - customer
+03/06/2025 11:58:03	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 11:58:03	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 11:58:03	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 11:58:03	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 11:58:03	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 12:10:27	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 12:10:27	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 12:10:27	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 12:10:27	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:32:18	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:32:18	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:32:18	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:18	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:32:30	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:30	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:33	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:32:33	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:32:34	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:32:34	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:34	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:35	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:32:35	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:32:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:32:35	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:33:32	Dal.saleImplementation.Update:	Start Update Sale
+03/06/2025 15:33:32	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 15:38:21	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:38:21	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:38:21	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:38:21	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:38:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:43:21	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:43:21	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:43:21	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:44:43	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:44:43	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:44:43	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:43	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:44:45	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:45	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:49	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:44:49	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:44:49	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:44:49	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:44:50	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:44:50	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:44:50	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:44:50	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:44:50	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:50	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:50	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:50	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:50	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:50	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:50	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:50	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:51	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:44:52	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:44:52	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:44:52	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:48:29	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:48:29	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:48:29	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:48:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:49:00	Dal.saleImplementation.Update:	Start Update Sale
+03/06/2025 15:49:00	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 15:56:33	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 15:56:33	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:56:33	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:56:33	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:56:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 15:57:42	Dal.saleImplementation.Update:	Start Update Sale
+03/06/2025 15:57:42	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 16:02:53	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:02:53	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:02:54	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:02:54	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:02:54	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:03:49	Dal.saleImplementation.Update:	Start Update Sale
+03/06/2025 16:03:49	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 16:04:41	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:04:42	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:04:42	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:04:42	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:04:42	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:05:20	Dal.saleImplementation.Update:	Start Update Sale
+03/06/2025 16:05:35	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 16:10:09	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:10:09	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:10:09	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:10:09	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:09	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:27	Dal.saleImplementation.Update:	Start Update Sale
+03/06/2025 16:10:27	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 16:10:27	Dal.saleImplementation.Delete:	end delete sale
+03/06/2025 16:10:27	Dal.saleImplementation.Create:	Start Create Sale
+03/06/2025 16:10:27	Dal.saleImplementation.Create:	End Create Sale
+03/06/2025 16:10:27	Dal.saleImplementation.Update:	End Update Sale
+03/06/2025 16:10:28	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:10:29	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:12:47	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:12:47	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:12:47	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:12:47	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:07	Dal.saleImplementation.Update:	Start Update Sale
+03/06/2025 16:13:07	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 16:13:33	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:13:33	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:33	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:36	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:13:36	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:13:36	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:36	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:36	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:36	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:36	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:36	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:37	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:13:37	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:13:37	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:39	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:13:39	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:13:39	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:39	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:39	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:39	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:39	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:13:39	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:18:17	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:18:17	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:18:17	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:17	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:25	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 16:18:56	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 16:18:56	Dal.saleImplementation.Delete:	end delete sale
+03/06/2025 16:18:56	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:18:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:19:10	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 16:20:49	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:20:49	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:20:49	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:20:49	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:20:49	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 16:21:15	Dal.saleImplementation.Delete:	end delete sale
+03/06/2025 16:21:15	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:15	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:21:38	Dal.saleImplementation.Update:	Start Update Sale
+03/06/2025 16:21:38	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 16:24:12	Dal.saleImplementation.Update:	Start Update Sale
+03/06/2025 16:24:12	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 16:24:12	Dal.saleImplementation.Delete:	end delete sale
+03/06/2025 16:24:12	Dal.saleImplementation.Create:	Start Create Sale
+03/06/2025 16:24:12	Dal.saleImplementation.Create:	End Create Sale
+03/06/2025 16:24:12	Dal.saleImplementation.Update:	End Update Sale
+03/06/2025 16:24:14	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:28:50	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:28:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:33:19	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:33:19	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:33:19	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:19	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:33:38	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 16:33:50	Dal.saleImplementation.Read:	read sale
+03/06/2025 16:34:19	Dal.saleImplementation.Delete:	end delete sale
+03/06/2025 16:34:39	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:34:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:34:57	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:34:58	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:34:59	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:35:07	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:35:07	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:35:07	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:35:56	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:35:56	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:35:56	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:35:56	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:36:34	Dal.saleImplementation.Update:	Start Update Sale
+03/06/2025 16:36:37	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 16:36:37	Dal.saleImplementation.Read:	read sale
+03/06/2025 16:36:37	Dal.saleImplementation.Delete:	end delete sale
+03/06/2025 16:37:36	Dal.saleImplementation.Create:	Start Create Sale
+03/06/2025 16:37:36	Dal.saleImplementation.Create:	End Create Sale
+03/06/2025 16:37:59	Dal.saleImplementation.Update:	End Update Sale
+03/06/2025 16:38:05	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:38:06	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:38:07	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:39:11	Dal.saleImplementation.Update:	Start Update Sale
+03/06/2025 16:39:11	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 16:39:11	Dal.saleImplementation.Read:	read sale
+03/06/2025 16:40:23	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:40:23	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:40:23	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:40:23	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:40:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.saleImplementation.Create:	Start Create Sale
+03/06/2025 16:41:08	Dal.saleImplementation.Create:	End Create Sale
+03/06/2025 16:41:08	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:41:08	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:42:53	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:42:53	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:42:53	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:42:53	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.saleImplementation.Update:	Start Update Sale
+03/06/2025 16:43:16	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 16:43:16	Dal.saleImplementation.Read:	read sale
+03/06/2025 16:43:16	Dal.saleImplementation.Delete:	end delete sale
+03/06/2025 16:43:16	Dal.saleImplementation.Create:	Start Create Sale
+03/06/2025 16:43:16	Dal.saleImplementation.Create:	End Create Sale
+03/06/2025 16:43:16	Dal.saleImplementation.Update:	End Update Sale
+03/06/2025 16:43:16	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:43:16	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:16	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:43:21	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:21	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:43:23	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:43:23	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 16:43:23	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 16:43:23	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.ReadAll:	 readAll with filter Product
+03/06/2025 17:00:41	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 17:00:41	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 17:00:41	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:00:41	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:04	Dal.saleImplementation.Update:	Start Update Sale
+03/06/2025 17:01:04	Dal.saleImplementation.Delete:	 start delete sale
+03/06/2025 17:01:04	Dal.saleImplementation.Read:	read sale
+03/06/2025 17:01:04	Dal.saleImplementation.Delete:	end delete sale
+03/06/2025 17:01:05	Dal.saleImplementation.Create:	Start Create Sale
+03/06/2025 17:01:05	Dal.saleImplementation.Create:	End Create Sale
+03/06/2025 17:01:05	Dal.saleImplementation.Update:	End Update Sale
+03/06/2025 17:01:05	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 17:01:05	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product
+03/06/2025 17:01:05	Dal.productImplementation.Read:	start read Product

@@ -1,0 +1,1 @@
+24/03/2025 12:25:27	Dal.ProductImplementation.Read:	start read Product
