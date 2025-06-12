@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tools
-build_property.ProjectDir = C:\Users\user1\Desktop\C#-PROJECT\myProject\DotNet2025_5431_1278_6870\Tools\
+build_property.ProjectDir = c:\Users\user1\Desktop\C#-PROJECT\myProject\DotNet2025_5431_1278_6870\Tools\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
