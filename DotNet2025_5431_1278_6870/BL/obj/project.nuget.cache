@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "uKPIYNU7H+kNangdvMvfHVfssgS69BzGh+JGERH6t9ppDHPHM+I3kyI3nENh9wi27rn7G+M+EXVKe2UJsCb51Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\user1\\Desktop\\C#-PROJECT\\myProject\\DotNet2025_5431_1278_6870\\BL\\BL.csproj",
+=======
+  "dgSpecHash": "Q/aeYuRZPFQ=",
+  "success": true,
+  "projectFilePath": "Z:\\B\\קסל גילה\\c#\\myProject\\DotNet2025_5431_1278_6870\\BL\\BL.csproj",
+>>>>>>> origin/master
   "expectedPackageFiles": [],
   "logs": []
 }

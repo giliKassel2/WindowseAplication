@@ -24,6 +24,7 @@ namespace UI
         List<BO.ProductInOrder> productInOrder = new List<BO.ProductInOrder>();
         ProductInOrder currentProduct;
         public CashRegister(BO.Order order, BO.Customer customer)
+
         {
             InitializeComponent();
             this.order = order;
@@ -121,6 +122,7 @@ namespace UI
         {
             // acount.Visible = true;
             //להוסיף קוד של חשבונית ופרוט המוצרים וההזמנות
+<<<<<<< HEAD
             if (order.Preference == BO.CustomerPreference.MANEGER)
             {
                 order.TotalPrice = order.TotalPrice * 90/100;
@@ -133,12 +135,20 @@ namespace UI
             }
             acountDetailPnl.Visible = true;
             foreach (var product in order.ProductsInOrder)
+=======
+           acountDetailPnl.Visible = true;
+           foreach(var product in order.ProductsInOrder)
+>>>>>>> origin/master
             {
                 productsAcount.Items.Add(product.ToString());
             }
             s_bl.Order.DoOrder(order);
+<<<<<<< HEAD
 
             this.Close();
+=======
+            //this.Close();
+>>>>>>> origin/master
         }
 
         private void customerDetails_Enter(object sender, EventArgs e)

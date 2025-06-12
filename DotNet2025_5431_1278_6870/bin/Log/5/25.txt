@@ -412,6 +412,7 @@
 25/05/2025 19:01:52	Dal.productImplementation.ReadAll:	 readAll with filter Product
 25/05/2025 19:01:56	Dal.productImplementation.Read:	start read Product
 25/05/2025 19:01:56	Dal.saleImplementation.ReadAll:	ReadAll with filter Sale
+<<<<<<< HEAD
 25/05/2025 22:24:19	Dal.productImplementation.ReadAll:	 readAll with filter Product
 25/05/2025 22:24:20	Dal.productImplementation.ReadAll:	 readAll with filter Product
 25/05/2025 22:24:20	Dal.productImplementation.ReadAll:	 readAll with filter Product
@@ -830,3 +831,5 @@
 25/05/2025 23:42:17	Dal.productImplementation.ReadAll:	 readAll with filter Product
 25/05/2025 23:42:17	Dal.productImplementation.ReadAll:	 readAll with filter Product
 25/05/2025 23:42:17	Dal.productImplementation.ReadAll:	 readAll with filter Product
+=======
+>>>>>>> origin/master

@@ -1,7 +1,11 @@
 ﻿
 namespace BO;
 
+<<<<<<< HEAD
 public class Exceptions
+=======
+internal class Exceptions
+>>>>>>> origin/master
 {
 
     [Serializable]

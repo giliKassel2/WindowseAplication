@@ -1,9 +1,19 @@
 {
   "runtimeOptions": {
+<<<<<<< HEAD
     "tfm": "net7.0",
     "framework": {
       "name": "Microsoft.NETCore.App",
       "version": "7.0.0"
+=======
+    "tfm": "net8.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "8.0.0"
+    },
+    "configProperties": {
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
+>>>>>>> origin/master
     }
   }
 }
